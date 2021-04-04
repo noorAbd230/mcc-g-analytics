@@ -19,6 +19,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.activity_products.*
 import java.text.SimpleDateFormat
 import java.util.*
+import kotlin.math.abs
 
 class ProductsActivity : AppCompatActivity() {
     lateinit var db: FirebaseFirestore
@@ -120,7 +121,7 @@ class ProductsActivity : AppCompatActivity() {
         // Toast.makeText(this,"$currentDate",Toast.LENGTH_SHORT).show()
         var hour =   endHour - startHour
         var minute =   endMinute - startMinute
-        var second =   endSecond - startSecond
+        var second =   abs(endSecond - startSecond)
 
         Toast.makeText(this,"$hour:$minute:$second", Toast.LENGTH_SHORT).show()
         Log.e("Nor","$hour:$minute:$second")
