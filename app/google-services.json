@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "227766856145",
+    "firebase_url": "https://eternal-delight-276016.firebaseio.com",
+    "project_id": "eternal-delight-276016",
+    "storage_bucket": "eternal-delight-276016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227766856145:android:ad0bb9fa3dd57ec443d8f0",
+        "android_client_info": {
+          "package_name": "com.example.firebaseanalyticsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227766856145-ta8him8rbq631o2baof6qs72dd1jb9nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBq2r77G8p9VJSWToVKlHqMw74okKi2mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227766856145-ta8him8rbq631o2baof6qs72dd1jb9nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227766856145:android:de974904d41e92eb43d8f0",
+        "android_client_info": {
+          "package_name": "com.example.foodiesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227766856145-jcbsjct9i7rrbfg0pc3diq30nfg3tlju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodiesapp",
+            "certificate_hash": "f9b98b7d8db01347c2e9ec1dc703d009429eb7f4"
+          }
+        },
+        {
+          "client_id": "227766856145-ta8him8rbq631o2baof6qs72dd1jb9nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBq2r77G8p9VJSWToVKlHqMw74okKi2mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227766856145-ta8him8rbq631o2baof6qs72dd1jb9nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227766856145:android:e3b98d358053527c43d8f0",
+        "android_client_info": {
+          "package_name": "com.example.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227766856145-ta8him8rbq631o2baof6qs72dd1jb9nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBq2r77G8p9VJSWToVKlHqMw74okKi2mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227766856145-ta8him8rbq631o2baof6qs72dd1jb9nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
